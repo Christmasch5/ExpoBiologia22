@@ -1,0 +1,50 @@
+/*Primera linea*/
+.CYU{
+margin-left: 2%;
+margin-top: 50px;
+color: white;
+font-size: 12px;
+}
+.CYD{
+margin-left: 1%;
+color: white;
+font-size: 12px;
+}
+.PQA{
+margin-left: 1%;
+color: white;
+font-size: 12px;
+}   
+.Contenedor{
+background-color:cadetblue;
+width: 100%;
+}
+.Imagen{
+height: 75px;
+border-radius: 20px;
+margin-top: 10px;
+margin-left: 15px;
+}
+p{
+margin: 0px;
+width: fit-content;
+display: inline-block;
+font-size: 20px;
+}
+body{
+margin: 0;
+padding: 0;
+}
+.PN{
+color:black;
+margin-left: 15%;
+}
+.Contenedor2{
+background-color:cadetblue;
+width: 100%;
+}
+/*Imagen Grande*/
+.Imagen1{
+width: 100%;
+height: 650px;    
+}

@@ -1,0 +1,35 @@
+.BTH{
+background-color: cadetblue;
+margin: 0%;
+width: 100%;
+}
+        
+.BH{
+font-size: 20px;
+}
+.Conteiner1{
+background-color: cadetblue;
+margin: 0%;    
+}
+.Texto1{
+background-color: cadetblue;
+margin: 0%;
+font-size: 14px;
+}
+    
+.Texto2{
+background-color: cadetblue;
+margin: 0%;
+font-size: 14px;
+}   
+
+.Texto3{
+background-color: cadetblue;
+margin: 0%;
+font-size: 14px;
+padding: 0%;
+}   
+.Imagen1{
+width: 100%;
+height: 500px;
+}
